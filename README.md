@@ -1,0 +1,1 @@
+Vous pouvez avoir accès au rapport du projet dans le fichier "Langage C Rapport" qui est en format pdf. Ensuite, j'ai ajouté le programme en entier, une fois en format cbp qui a été sauvegardé à partir du logiciel CodeBlocks, et une fois en format pdf. 
